@@ -1,0 +1,10 @@
+{
+    "admin_deb": {
+        "email": "debmalya.ray9989@gmail.com",
+        "password": "$2b$12$AQ6cWAco6geRENPGey8B6.t8m/19RPF0d/biEomeVUWDpDp3UL2Py",
+        "reset_token": "_zDtw9S81XHuVtP4phIlPXu1tEMxNglN9Rs1ZmpEnjc",
+        "token_expiry": "2025-04-26T23:04:59.000474",
+        "otp": "bAOFWt4F",
+        "otp_expiry": "2025-04-27T17:32:35.226956"
+    }
+}

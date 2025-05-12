@@ -1,0 +1,47 @@
+{
+    "transactions": [
+        {
+            "type": "Income",
+            "category": "Salary",
+            "date": "2025-04-27",
+            "amount": 25000.0,
+            "description": "Salary Credits"
+        },
+        {
+            "type": "Expense",
+            "category": "Food",
+            "date": "2025-04-27",
+            "amount": 1200.0,
+            "description": "Food Expenses"
+        },
+        {
+            "type": "Expense",
+            "category": "Entertainment",
+            "date": "2025-04-27",
+            "amount": 1200.0,
+            "description": "Entertainment Expenses"
+        },
+        {
+            "type": "Expense",
+            "category": "Shopping",
+            "date": "2025-04-28",
+            "amount": 450.0,
+            "description": "Shopping Expenses"
+        }
+    ],
+    "documents": {
+        "aadhar": [],
+        "pan": [],
+        "bank_accounts": [],
+        "driving_license": [],
+        "certificates": [
+            {
+                "name": "MachineHack",
+                "issuer": "MachineHack",
+                "date": "2025-04-25",
+                "description": "Data Description",
+                "image": "data\\documents\\data\\documents\\data\\documents\\data\\documents\\data\\documents\\machinehack.JPG"
+            }
+        ]
+    }
+}
